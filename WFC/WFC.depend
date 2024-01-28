@@ -1,0 +1,241 @@
+# depslib dependency file v1.0
+1676939006 source:f:\leo\wfc\wfc\color.c
+	"Color.h"
+	"Image.h"
+	"utils.h"
+	<math.h>
+	<stdint.h>
+
+1675669616 f:\leo\wfc\wfc\color.h
+	"Image.h"
+	<stdlib.h>
+	<stdint.h>
+
+1675182416 f:\leo\wfc\wfc\image.h
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+
+1675802566 f:\leo\wfc\wfc\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1679018478 source:f:\leo\wfc\wfc\colorimage.c
+	"ColorImage.h"
+	"Image.h"
+	"Color.h"
+	"utils.h"
+
+1675671894 f:\leo\wfc\wfc\colorimage.h
+	"Image.h"
+	"Color.h"
+	<stdlib.h>
+	<stdint.h>
+
+1675182416 source:f:\leo\wfc\wfc\image.c
+	"Image.h"
+	"utils.h"
+	<math.h>
+	"stb_image/stb_image.h"
+	"stb_image/stb_image_write.h"
+
+1675182416 f:\leo\wfc\wfc\stb_image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1675182416 f:\leo\wfc\wfc\stb_image\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1680022166 source:f:\leo\wfc\wfc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utils.h"
+	"Utils_wfc.h"
+	"Color.h"
+	"Image.h"
+	"ColorImage.h"
+	"Patterns.h"
+	"Grille.h"
+
+1679943889 f:\leo\wfc\wfc\utils_wfc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	"ColorImage.h"
+	"Color.h"
+
+1679950408 f:\leo\wfc\wfc\patterns.h
+	"Utils_wfc.h"
+
+1680021448 f:\leo\wfc\wfc\grille.h
+	"ColorImage.h"
+	"Patterns.h"
+
+1679960299 source:f:\leo\wfc\wfc\patterns.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Patterns.h"
+	"utils.h"
+	"Utils_wfc.h"
+	"Image.h"
+
+1679960615 source:f:\leo\wfc\wfc\utils_wfc.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Utils_wfc.h"
+	"utils.h"
+
+1680021415 source:f:\leo\wfc\wfc\grille.c
+	"Grille.h"
+	"utils.h"
+	"Utils_wfc.h"
+
+1676939006 source:f:\leo\cours namur\projet de programation\wfc\wfc\color.c
+	"Color.h"
+	"Image.h"
+	"utils.h"
+	<math.h>
+	<stdint.h>
+
+1675669616 f:\leo\cours namur\projet de programation\wfc\wfc\color.h
+	"Image.h"
+	<stdlib.h>
+	<stdint.h>
+
+1675182416 f:\leo\cours namur\projet de programation\wfc\wfc\image.h
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+
+1675802566 f:\leo\cours namur\projet de programation\wfc\wfc\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1679018478 source:f:\leo\cours namur\projet de programation\wfc\wfc\colorimage.c
+	"ColorImage.h"
+	"Image.h"
+	"Color.h"
+	"utils.h"
+
+1675671894 f:\leo\cours namur\projet de programation\wfc\wfc\colorimage.h
+	"Image.h"
+	"Color.h"
+	<stdlib.h>
+	<stdint.h>
+
+1683386379 source:f:\leo\cours namur\projet de programation\wfc\wfc\grille.c
+	"Grille.h"
+	"utils.h"
+	"Utils_wfc.h"
+
+1683372397 f:\leo\cours namur\projet de programation\wfc\wfc\grille.h
+	"ColorImage.h"
+	"Patterns.h"
+
+1683372397 f:\leo\cours namur\projet de programation\wfc\wfc\patterns.h
+	"Utils_wfc.h"
+
+1683385818 f:\leo\cours namur\projet de programation\wfc\wfc\utils_wfc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+	"ColorImage.h"
+	"Color.h"
+
+1675182416 source:f:\leo\cours namur\projet de programation\wfc\wfc\image.c
+	"Image.h"
+	"utils.h"
+	<math.h>
+	"stb_image/stb_image.h"
+	"stb_image/stb_image_write.h"
+
+1675182416 f:\leo\cours namur\projet de programation\wfc\wfc\stb_image\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1675182416 f:\leo\cours namur\projet de programation\wfc\wfc\stb_image\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1686238110 source:f:\leo\cours namur\projet de programation\wfc\wfc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utils.h"
+	"Utils_wfc.h"
+	"Color.h"
+	"Image.h"
+	"ColorImage.h"
+	"Patterns.h"
+	"Grille.h"
+
+1683368897 source:f:\leo\cours namur\projet de programation\wfc\wfc\patterns.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Patterns.h"
+	"utils.h"
+	"Utils_wfc.h"
+	"Image.h"
+	"ColorImage.h"
+
+1683385818 source:f:\leo\cours namur\projet de programation\wfc\wfc\utils_wfc.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"Utils_wfc.h"
+	"utils.h"
+
